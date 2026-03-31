@@ -33,7 +33,4 @@ Le script principal `notes_graph.R` crée un vecteur de notes, calcule les stati
 
 Le graphique affiche chaque note avec une barre bleue et la moyenne en ligne rouge.
 
----
-
-## Auteur
-Ton Nom
+ Vanschoor S
